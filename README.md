@@ -1,7 +1,7 @@
 # 介绍
 基于react的一个小型井字棋
 # 安装
-```npm init```
+```npm install```
 # 运行
 ```npm start```
 # 参考
